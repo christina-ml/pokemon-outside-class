@@ -24,6 +24,7 @@ Recently added during pokemon-in-class:
 ### Optional Ideas
 
 * Halloween Themed Pokémon (Spooky Pokémon, Horror version of Pokémon)
+* What a Pokédex looks like
 
 
 ## Things to Include
