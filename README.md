@@ -31,13 +31,21 @@ Recently added during pokemon-in-class:
 
 Entirely up to you what you want to include:
 
-* Have text input work for capitalized letters when searching/filtering the Pokémon list
-* Clear only one Pokémon from the team instead of all.
-* Capitalize each of the Pokémon names in Evolutions list
-* Make Evolutions pokémon clickable in some way?
-* Include additional information from the API that might be interesting in the Details section
+### Anywhere on page
 * Add some background colors/images, fonts, borders
 * Change CSS Grid layout, add/move elements.
+* Include additional information from the API that might be interesting - maybe in the Details section?
+
+### Pokemon Selector section
+* Have text input work for capitalized letters when searching/filtering the Pokémon list
+
+### Add to Team section
+* Can't add more than 5 pokémon to team
+* Remove only one Pokémon from the team instead of all.
+
+### Evolutions section
+* Capitalize each of the Pokémon names in Evolutions list
+* Make Evolutions pokémon clickable in some way?
 
 
 A few suggestions:
