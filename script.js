@@ -112,6 +112,11 @@ async function fetchPokemonDetails(pokemonName, shouldAddToRecent){
         }).join("/");
 
         details.innerHTML = `<div id="details-title">
+                <div id="details-blue">
+                </div>
+                <div id="details-red"></div>
+                <div id="details-yellow"></div>
+                <div id="details-green"></div>
                 <h2>Details</h2>
             </div>
             <div id="details-img-container">
