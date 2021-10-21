@@ -79,6 +79,7 @@
 }
 
 #details-title h2{
+    color: white;
     text-align: right;
     grid-area: dt-title;
 }
@@ -154,9 +155,10 @@
 }
 
 #details-sub-text{
-    grid-area: details-sub-text;
+    font-family: monospace;
     background-color: lightgray;
     border: 2px solid black;
+    grid-area: details-sub-text;
 }
 
 #details-action{
