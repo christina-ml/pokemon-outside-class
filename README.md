@@ -35,9 +35,13 @@ Entirely up to you what you want to include:
 * Add some background colors/images, fonts, borders
 * Change CSS Grid layout, add/move elements.
 * Include additional information from the API that might be interesting - maybe in the Details section?
+* Find tallest/heaviest Pokémon
 
 ### Pokemon Selector section
 * Have text input work for capitalized letters when searching/filtering the Pokémon list
+
+### Details section
+* Change the background color of the Pokémon's image based on what [type](https://pokemon.fandom.com/wiki/Types) they are
 
 ### Add to Team section
 * Can't add more than 5 pokémon to team
@@ -46,6 +50,9 @@ Entirely up to you what you want to include:
 ### Evolutions section
 * Capitalize each of the Pokémon names in Evolutions list
 * Make Evolutions pokémon clickable in some way?
+
+### Recent section
+* Add button to clear Recent pokémon
 
 
 A few suggestions:
