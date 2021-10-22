@@ -34,13 +34,14 @@
 #details > *{
     /* border: 1px solid black; */
     padding: 5px 10px;
+    font-family: monospace;
 }
 
 #details{
     background-color: rgb(212, 40, 66);
     grid-area: details;
     display: grid;
-    grid-template-rows: 30px 60px 1fr 1fr;
+    grid-template-rows: 30px 60px 1fr 130px;
     grid-template-areas: 
         "details-title details-title"
         "diagonally diagonally"
@@ -60,8 +61,10 @@
             "recent";
     }
     #details{
+        grid-template-rows: 30px 60px 1fr 150px 130px;
         grid-template-areas:
             "details-title"
+            "diagonally"
             "details-img"
             "details-text"
             "details-sub-text";
@@ -179,7 +182,6 @@
 }
 
 #details-text div {
-    font-family: monospace;
     background-color: lightgray;
     padding: 5px;
     border: 1px solid black;
@@ -187,7 +189,6 @@
 }
 
 #details-sub-text{
-    font-family: monospace;
     background-color: lightgray;
     border: 2px solid black;
     grid-area: details-sub-text;
